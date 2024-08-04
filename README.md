@@ -2,9 +2,9 @@
 
 ## Group 6
 
-- Eduardo Correia (up201806433)
-- Henrique Sousa (up201906681)
-- Maria Franscisca Almeida (up201806398)
+- [Henrique Sousa (Self)](https://github.com/henriquecscode)
+- [Eduardo Correia](https://github.com/Educorreia932)
+- [Maria Almeida](https://github.com/chicalmeida)
 
 ## Project
 
